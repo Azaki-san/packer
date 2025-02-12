@@ -1,4 +1,5 @@
-//+build ignore
+//go:build ignore
+// +build ignore
 
 package main
 
@@ -6,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pierrec/packer"
+	"github.com/Azaki-san/packer"
 )
 
 type UintEntry struct {

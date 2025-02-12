@@ -1,3 +1,3 @@
-module github.com/pierrec/packer
+module github.com/Azaki-san/packer
 
-go 1.14
+go 1.24

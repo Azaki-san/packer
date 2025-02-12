@@ -3,8 +3,8 @@ package packer
 import (
 	"io"
 
-	"github.com/pierrec/packer/internal/packuint"
-	"github.com/pierrec/packer/iobyte"
+	"github.com/Azaki-san/packer/internal/packuint"
+	"github.com/Azaki-san/packer/iobyte"
 )
 
 func minBuf(buf []byte, n int) []byte {

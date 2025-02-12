@@ -5,7 +5,7 @@ import (
 	"io"
 	"math/bits"
 
-	"github.com/pierrec/packer/iobyte"
+	"github.com/Azaki-san/packer/iobyte"
 )
 
 //go:generate go run uintgen.go
